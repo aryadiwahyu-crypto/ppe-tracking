@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>APD Tracking — Perusahaan</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { padding: 1rem; }
+    .small-muted { font-size:0.9rem; color:#6c757d; }
+    @media (max-width: 576px) {
+      .table-responsive { font-size:0.9rem; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h3 class="mb-2">APD Tracking — Riwayat & Jadwal Penggantian</h3>
+  <p class="small-muted">Data publik. Untuk demo. Cari Nama atau NIK.</p>
+
+  <div class="row g-2 mb-3">
+    <div class="col-12 col-md-6">
+      <input id="searchInput" class="form-control" placeholder="Cari Nama atau NIK">
+    </div>
+    <div class="col-6 col-md-3">
+      <select id="filterAPD" class="form-select">
+        <option value="">Semua Jenis APD</option>
+      </select>
+    </div>
+    <div class="col-6 col-md-3">
+      <select id="soonDays" class="form-select">
+        <option value="30">30 hari</option>
+        <option value="60">60 hari</option>
+        <option value="90" selected>90 hari</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="row mb-3">
+    <div class="col-12 col-md-6">
+      <div class="card p-2">
+        <div class="card-body">
+          <h6>Hasil Pencarian</h6>
+          <div id="searchResults" class="list-group"></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="card p-2">
+        <div class="card-body">
+          <h6>Penggantian Segera</h6>
+          <div id="upcoming" class="small"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h6>Riwayat Penerimaan APD <small id="selectedName" class="text-muted"></small></h6>
+      <div class="table-responsive">
+        <table id="historyTable" class="table table-sm table-bordered">
+          <thead class="table-light">
+            <tr>
+              <th>Tanggal</th><th>Jenis APD</th><th>Jumlah</th><th>Next Date</th><th>Ukuran</th><th>Dept</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const DATA_URL = "data/apd_normalized.json";
+
+function parseDate(s){
+  if(!s) return null;
+  const d = new Date(s);
+  if(!isNaN(d)) return d;
+  // try dd-mmm-yy variants
+  let parts = s.split(/[-\/ ]/);
+  if(parts.length===3){
+    // try day month year like 26-Jun-28 or 26 Jun 2024
+    let day = parts[0];
+    let mon = parts[1];
+    let year = parts[2];
+    // map months
+    const months = {JAN:0,FEB:1,MAR:2,APR:3,MAY:4,JUN:5,JUL:6,AUG:7,SEP:8,OCT:9,NOV:10,DEC:11};
+    let m = months[mon.substring(0,3).toUpperCase()] ;
+    if(m!==undefined){
+      // normalize year two-digit
+      if(year.length===2){ year = '20'+year; }
+      return new Date(Number(year), m, Number(day));
+    }
+  }
+  return null;
+}
+function formatDate(d){
+  if(!d) return "";
+  return d.toISOString().slice(0,10);
+}
+
+fetch(DATA_URL).then(r=>r.json()).then(data=>{
+  window.APDDATA = data;
+  populateFilter();
+  bindSearch();
+  showUpcoming();
+});
+
+function populateFilter(){
+  const set = new Set(window.APDDATA.map(d=>d.Jenis_APD).filter(x=>x));
+  const sel = document.getElementById("filterAPD");
+  Array.from(set).sort().forEach(j=>{
+    const opt = document.createElement("option"); opt.value=j; opt.textContent=j;
+    sel.appendChild(opt);
+  });
+}
+
+function bindSearch(){
+  document.getElementById("searchInput").addEventListener("input", ()=>renderSearch());
+  document.getElementById("filterAPD").addEventListener("change", ()=>renderSearch());
+  document.getElementById("soonDays").addEventListener("change", ()=>showUpcoming());
+}
+
+function renderSearch(){
+  const q = document.getElementById("searchInput").value.trim().toLowerCase();
+  const filter = document.getElementById("filterAPD").value;
+  const grouped = {};
+  window.APDDATA.forEach(r=>{
+    if(filter && r.Jenis_APD !== filter) return;
+    if(q && !( (r.Nama||'').toLowerCase().includes(q) || (r.NIK||'').toLowerCase().includes(q) )) return;
+    const key = (r.NIK||'') + '||' + (r.Nama||'');
+    if(!grouped[key]) grouped[key] = {meta:r, rows:[]};
+    grouped[key].rows.push(r);
+  });
+  const list = document.getElementById("searchResults");
+  list.innerHTML='';
+  const keys = Object.keys(grouped);
+  if(keys.length===0){ list.innerHTML = '<div class="text-muted">Tidak ditemukan.</div>'; clearHistory(); return; }
+  keys.forEach(k=>{
+    const g = grouped[k];
+    const btn = document.createElement("button");
+    btn.className='list-group-item list-group-item-action';
+    btn.innerHTML = '<div class="d-flex w-100 justify-content-between"><div><strong>'+ (g.meta.Nama||'') +'</strong><div class="small-muted">'+(g.meta.NIK||'')+' — '+(g.meta.Departemen||'')+'</div></div><small class="text-muted">'+g.rows.length+' item</small></div>';
+    btn.onclick = ()=>showHistory(g.meta.NIK, g.meta.Nama);
+    list.appendChild(btn);
+  });
+  if(keys.length===1){
+    const g = grouped[keys[0]];
+    showHistory(g.meta.NIK, g.meta.Nama);
+  } else {
+    clearHistory();
+  }
+}
+
+function clearHistory(){
+  document.getElementById("selectedName").textContent='';
+  const tbody = document.querySelector("#historyTable tbody");
+  tbody.innerHTML = '<tr><td colspan="6" class="text-muted">Pilih karyawan dari daftar di kiri untuk lihat riwayat.</td></tr>';
+}
+
+function showHistory(nik, nama){
+  const recs = window.APDDATA.filter(r=> (r.NIK||'').toLowerCase() === (nik||'').toLowerCase());
+  document.getElementById("selectedName").textContent = '— '+(nama||'')+' ('+ (nik||'') +')';
+  const tbody = document.querySelector("#historyTable tbody");
+  tbody.innerHTML='';
+  if(recs.length===0){ tbody.innerHTML = '<tr><td colspan="6">Tidak ada riwayat.</td></tr>'; return; }
+  recs.sort((a,b)=>{
+    const da = parseDate(a.Tanggal_Keluar), db = parseDate(b.Tanggal_Keluar);
+    return (db||0) - (da||0);
+  });
+  recs.forEach(r=>{
+    const next = r.Next_Date ? parseDate(r.Next_Date) : (r.Tanggal_Keluar && r.Interval_Bulan ? addMonths(parseDate(r.Tanggal_Keluar), Number(r.Interval_Bulan)) : null);
+    const tr = document.createElement("tr");
+    tr.innerHTML = '<td>'+(r.Tanggal_Keluar||'')+'</td><td>'+(r.Jenis_APD||'')+'</td><td>'+(r.Jumlah||'')+'</td><td>'+(next?formatDate(next):'')+'</td><td>'+(r.Ukuran||'')+'</td><td>'+(r.Departemen||'')+'</td>';
+    tbody.appendChild(tr);
+  });
+}
+
+function addMonths(date, months){
+  if(!date) return null;
+  const d = new Date(date);
+  d.setMonth(d.getMonth()+months);
+  return d;
+}
+
+function showUpcoming(){
+  const days = Number(document.getElementById("soonDays").value);
+  const now = new Date();
+  const limit = new Date(now.getTime() + days*24*3600*1000);
+  const rows = [];
+  window.APDDATA.forEach(r=>{
+    let next = r.Next_Date ? parseDate(r.Next_Date) : (r.Tanggal_Keluar && r.Interval_Bulan ? addMonths(parseDate(r.Tanggal_Keluar), Number(r.Interval_Bulan)) : null);
+    if(next && next >= now && next <= limit){
+      rows.push({Nama:r.Nama, NIK:r.NIK, Jenis_APD:r.Jenis_APD, Next_Date: next});
+    }
+  });
+  rows.sort((a,b)=>a.Next_Date - b.Next_Date);
+  const el = document.getElementById("upcoming");
+  if(rows.length===0){ el.innerHTML = '<div>Tidak ada penggantian dalam periode terpilih.</div>'; return; }
+  el.innerHTML = rows.slice(0,30).map(r=>'<div><strong>'+r.Nama+'</strong> — '+r.Jenis_APD+' — '+ (r.Next_Date.toISOString().slice(0,10)) +'</div>').join('');
+}
+</script>
+</body>
+</html>
