@@ -1,247 +1,266 @@
 NIK,Nama,Jabatan,Departemen,Jenis_APD,Jumlah,Tanggal_Keluar,Next_Date,Ukuran
-,Yoga Herdiansyah,Staff,SCM Dept,Safety Shoes,2,20-Feb-24,19-Feb-26,
-TP00121,Erwin Herdiyansyah,Manager,Customer Services,Safety Glases Clear,1,6-May-24,,
-,Ericson,CTO,,Safety Helmet,1,26-Jun-24,,
-TP00116,Widiyanto,Staff,Customer Services,Fastrack,2,11-Jul-24,,
-TP00140,Dean Hermawan,Staff,Customer Services,Safety Glases Clear,1,19-Aug-24,,
-,Boyke Mulyanto S.,Operator,SCM Dept,Fastrack,2,1-Oct-24,,
-,Teguh Purnomo,KABAG,QHSE,Safety Shoes,1,2-Oct-24,2-Oct-26,
-TP00049,Erwin Maulana,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,2-Oct-24,,
-,Ericson,CTO,,Fastrack,1,16-Oct-24,,
-TP00008,Nurhadi Anwar,Operator Leader,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,16-Oct-24,,
-TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Masker N95 3M,10,16-Oct-24,,
-TP00165,Denis Sapta Muharam,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,16-Oct-24,,
-TP00190,Muhamad Lukman,Operator,PRODUKSI DEPT,Safety Helmet,1,16-Oct-24,,8
-TP00228,Royong Saputra,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Oct-24,16-Oct-26,
-,Dea Dermaga Putra,Staff,SCM Dept,Safety Shoes,1,16-Oct-24,16-Oct-26,
-TP00024,Arfiani Eko Ayu K.,Kepala Bagian,Procurement,Safety Shoes,1,16-Oct-24,16-Oct-26,
-,Muhammad Naufal Lukman Hakim,Staff,Sales / Marketing Dept,Safety Shoes,1,16-Oct-24,16-Oct-26,
-TP00120,Syaiful Fahmi,Staff,Customer Services,Safety Shoes,1,16-Oct-24,16-Oct-26,
-,Agung,Staff,PRODUKSI DEPT,Masker N95 3M,1,16-Oct-24,,
-TP00116,Widiyanto,Staff,Customer Services,Ear Plug,1,11-Nov-24,11-Nov-26,
-TP00038,Endar Suhendar,Operator,PRODUKSI DEPT,Safety Shoes,1,18-Nov-24,18-Nov-26,
-TP00191,Jaenal Arifin,Operator,PRODUKSI DEPT,Safety Shoes,1,19-Nov-24,19-Nov-26,
-,Team Cleaning KBP,,MAGANG,Safety Glases Clear,4,19-Nov-24,,
-TP00140,Dean Hermawan,Staff,Customer Services,Ear Plug,1,25-Nov-24,25-Nov-26,
-TP00140,Dean Hermawan,Staff,Customer Services,Fastrack,2,25-Nov-24,,
-TP00153,Ahmad Sofwan,Staff,Customer Services,Safety Shoes,1,26-Nov-24,26-Nov-26,
-,Yoga Herdiansyah,Staff,SCM Dept,Body Harness,1,3-Dec-24,,
-,Hendro Tornado P Nababan,KABAG,QHSE,Body Harness,2,3-Dec-24,,
-TP00049,Erwin Maulana,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Dec-24,3-Dec-26,
-,Checilia Yohana Sutini,Manager,"HR, GA, & IT DEPT",Safety Helmet,1,3-Dec-24,,40
-TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,4-Dec-24,,9
-TP00012,Muhammad Maulana,Operator,PRODUKSI DEPT,Safety Shoes,1,4-Dec-24,4-Dec-26,
-TP00180,M. Afrian,Operator,PRODUKSI DEPT,Safety Shoes,1,4-Dec-24,4-Dec-26,
-TP00232,Haris Ibnu Guntoro,Magang,PRODUKSI DEPT,Safety Shoes,1,4-Dec-24,4-Dec-26,
-,Ita Setia Ningsih,Staff,Procurement,Safety Shoes,1,4-Dec-24,4-Dec-26,
-TP00014,Raflis,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,5-Dec-24,5-Dec-26,
-TP00182,Angga Sutrisno,Operator,PRODUKSI DEPT,Safety Shoes,1,5-Dec-24,5-Dec-26,
-TP00075,Yuswa Indrawati,Supervisor,Accounting & Finance Dept,Safety Shoes,1,5-Dec-24,5-Dec-26,
-,Hendra,Manager,Procurement,Safety Shoes,1,5-Dec-24,5-Dec-26,
-,M Haris Pratama,Staff,QHSE,Safety Shoes,1,9-Dec-24,9-Dec-26,
-TP00053,Abdul Muhit,Operator,PRODUKSI DEPT,Safety Shoes,1,9-Dec-24,9-Dec-26,
-TP00200,Wakhidin,Operator,PRODUKSI DEPT,Safety Shoes,1,9-Dec-24,9-Dec-26,
-TP00007,Sundowi,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,11-Dec-24,11-Dec-26,
-TP00146,Badil Noor Fikri,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Dec-24,11-Dec-26,
-TP00226,Mustakim,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Dec-24,11-Dec-26,
-,Franciscus Purba,Staff,SCM Dept,Safety Shoes,1,11-Dec-24,11-Dec-26,
-,Wiwiek Agustina,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Dec-24,11-Dec-26,
-TP00045,Suprayogi,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Dec-24,11-Dec-26,
-TP00005,Ahmad Sanusi,Supervisor,PRODUKSI DEPT,Safety Shoes,1,12-Dec-24,12-Dec-26,
-TP00105,Adlan Fahmi,Operator,PRODUKSI DEPT,Fastrack,1,12-Dec-24,,
-TP00224,Sarjito,Operator,PRODUKSI DEPT,Safety Helmet,1,12-Dec-24,,7
-,Ulfah Adam,Staff,QHSE,Safety Shoes,1,12-Dec-24,12-Dec-26,
-TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Glases Clear,2,12-Dec-24,,
-TP00008,Nurhadi Anwar,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,16-Dec-24,16-Dec-26,
-TP00165,Denis Sapta Muharam,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Dec-24,16-Dec-26,
-TP00227,Abdul Rojak,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Dec-24,16-Dec-26,
-,Yanti,Manager,SCM Dept,Safety Helmet,1,16-Dec-24,,
-TP00116,Widiyanto,Staff,Customer Services,Body Harness,2,19-Dec-24,,
-,Yoga Herdiansyah,Staff,SCM Dept,Fastrack,1,2-Jan-25,,
-,Vahlen Paraditha,Staff,Sales / Marketing Dept,Safety Helmet,1,6-Jan-25,,
-TP00121,Erwin Herdiyansyah,Manager,Customer Services,Safety Shoes,1,6-Jan-25,6-Jan-27,
-,Gayatri Puput Melati,Staff,SCM Dept,Safety Helmet,1,7-Jan-25,,38
+BOD0001,Aries Teguh H,President Director,BOD,Safety Helmet,1,19-Nov-24,19-Nov-28,
+BOD0002,Anite,CFO,BOD,Safety Helmet,1,4-Oct-24,4-Oct-28,
+BOD0003,Ericson,CTO,BOD,Safety Helmet,1,26-Jun-24,,
+BOD0003,Ericson,CTO,BOD,Fastrack,1,16-Oct-24,,
+SK00001,Ririn Anggraeni,Staff,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,16-Oct-26,38
+SK00002,Lidya Permatasari,Staff,PRODUKSI DEPT,Safety Shoes,1,19-Aug-25,19-Aug-27,41
+SK00002,Lidya Permatasari,Staff,PRODUKSI DEPT,Safety Helmet,1,19-Aug-25,19-Aug-29,
+SK00005,Divia Intan,Staff,Sales / Marketing Dept,Safety Shoes,1,20-May-24,19-May-26,37
+TP00003,Surono,Supervisor,PRODUKSI DEPT,Safety Helmet,1,17-Oct-25,,5
+TP00003,Surono,Supervisor,PRODUKSI DEPT,Safety Shoes,2,17-Oct-25,17-Oct-27,
+TP00004,Ulfah Adam,Staff,QHSE,Safety Shoes,1,12-Dec-24,12-Dec-26,
+TP00005,Ahmad Sanusi,Supervisor,PRODUKSI DEPT,Safety Shoes,1,19-Oct-23,18-Oct-25,8
+TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Safety Shoes,1,20-Mar-25,19-Mar-27,7
+TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Fastrack,1,20-Mar-25,,
+TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Face Shield,1,20-Mar-25,,
+TP00007,Sundowi,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,3-Oct-23,2-Oct-25,7
+TP00007,Sundowi,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,11-Sep-25,10-Sep-27,7
+TP00008,Nurhadi Anwar,Operator Leader,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00008,Nurhadi Anwar,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,14-Apr-25,14-Apr-27,6
+TP00009,Sadarudin,Operator Leader,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00009,Sadarudin,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,14-Apr-25,13-Apr-27,6
+TP00010,Phangky Setiawan,Staff,ENGINEERING DEPT,Safety Shoes,1,16-Oct-23,15-Oct-25,7
+TP00012,Muhammad Maulana,Operator,PRODUKSI DEPT,Safety Shoes,1,25-Aug-25,25-Aug-27,9
+TP00013,Ahmad Sehabudin,Operator,QHSE,Safety Shoes,1,11-Sep-25,11-Sep-27,42
+TP00013,Ahmad Sehabudin,Operator,QHSE,Fastrack,1,23-Sep-24,,
+TP00013,Ahmad Sehabudin,Operator,QHSE,Safety Helmet,1,11-Sep-24,11-Sep-27,
+TP00014,Raflis,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,3-Feb-25,2-Feb-27,7
+TP00014,Raflis,Operator Leader,PRODUKSI DEPT,Fastrack,1,23-Sep-24,,
+TP00017,Nawawi,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,23-Jan-25,22-Jan-27,6
+TP00018,Fatkur Roziq,Operator,PRODUKSI DEPT,Safety Shoes,1,23-Jan-25,22-Jan-27,7
+TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Masker N95 3M,10,19-Nov-24,,
+TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Glases Clear,1,19-Nov-24,,
+TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,22-Aug-24,21-Aug-26,
+TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Glases Black,2,19-Nov-24,,
+TP00020,Priadi,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Oct-23,2-Oct-25,
+TP00020,Priadi,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Sep-25,10-Sep-27,41
 TP00021,Hery Arifin,Operator Leader,PRODUKSI DEPT,Safety Glases Clear,1,23-Jan-25,,
 TP00021,Hery Arifin,Operator Leader,PRODUKSI DEPT,Safety Glases Black,1,23-Jan-25,,
+TP00021,Hery Arifin,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,2-Oct-23,1-Oct-25,6
+TP00021,Hery Arifin,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,23-Jan-25,22-Jan-27,6
 TP00022,Riki Dwi Susanto,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,23-Jan-25,23-Jan-27,
+TP00023,Boyke Mulyanto S.,Operator,SCM Dept,Fastrack,2,1-Oct-24,,
+TP00023,Boyke Mulyanto S.,Operator,SCM Dept,Safety Shoes,1,23-Apr-25,22-Apr-27,7
+TP00023,Boyke Mulyanto S.,Staff,SCM Dept,Rompi,2,22-Sep,,
+TP00024,Arfiani Eko Ayu K.,KABAG,Procurement,Safety Shoes,1,16-Oct-24,16-Oct-26,37
+TP00025,Teguh Purnomo,KABAG,QHSE,Safety Shoes,1,25-Oct-23,24-Oct-25,6
+TP00027,Koni Trisnawati,Staff,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,16-Oct-26,39
+TP00028,Rifan Rifai,Staff,Accounting & Finance Dept,Safety Shoes,1,12-Dec-24,11-Dec-26,8
+TP00029,Yoga Candra Setyawan,Senior Staff,ENGINEERING DEPT,Safety Glases Clear,1,27-May-25,,
+TP00037,Sukarso,Staff,ENGINEERING DEPT,Safety Shoes,1,13-Aug-24,12-Aug-26,6
+TP00038,Endar Suhendar,Operator,PRODUKSI DEPT,Safety Shoes,1,18-Nov-24,18-Nov-26,8
 TP00041,Sahrul,Operator,PRODUKSI DEPT,Safety Shoes,1,23-Jan-25,23-Jan-27,
-,Aldy,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,3-May-25,3-May-27,
-,Teguh Kurniawan,Staff,QHSE,Safety Glases Clear,2,5-May-25,,
-TP00052,Suroso,Operator,PRODUKSI DEPT,Safety Helmet,1,5-May-25,,5
-TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Glases Clear,1,20-May-25,,
-TP00189,Chairul Anwar,Operator,PRODUKSI DEPT,Safety Helmet,1,20-May-25,,6
-,Eka Rizky,Manager,SCM Dept,Safety Shoes,1,20-May-25,20-May-27,
-,Iwan Setiawan,Staff,Sales / Marketing Dept,Safety Glases Clear,1,20-May-25,,
-,Divia Intan,Staff,Sales / Marketing Dept,Safety Shoes,1,20-May-25,20-May-27,
-,Helmi Nopendra,Staff,"HR, GA, & IT DEPT",Safety Helmet,1,26-May-25,,8
-,Wahyu Nugroho,SPV,QHSE,Safety Shoes,1,26-May-25,26-May-27,
-,Wahyu Aryadi,Staff,QHSE,Safety Shoes,1,26-May-25,26-May-27,
-,Dede Suwito,Manager,ENGINEERING DEPT,Safety Shoes,1,26-May-25,26-May-27,
-,Dede Suwito,Manager,ENGINEERING DEPT,Safety Glases Clear,2,26-May-25,,
-TP00053,Abdul Muhit,Operator,PRODUKSI DEPT,Ear Plug,2,26-May-25,,
-TP00054,Anton Triatno,Operator,PRODUKSI DEPT,Safety Shoes,1,26-May-25,26-May-27,
-TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Safety Shoes,1,26-May-25,26-May-27,
-TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Fastrack,1,26-May-25,,
-TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Ear Muff,1,26-May-25,,
-TP00207,Rio Hambali,Senior Manager,PRODUKSI DEPT,Safety Helmet,1,26-May-25,,9
-TP00207,Rio Hambali,Senior Manager,PRODUKSI DEPT,Safety Shoes,1,26-May-25,26-May-27,
-TP00212,Wildhan Mahendra Putra,Operator,PRODUKSI DEPT,Safety Shoes,1,26-May-25,26-May-27,
-TP00214,Heri Suryana,Operator,PRODUKSI DEPT,Safety Shoes,1,26-May-25,26-May-27,
-TP00215,Supriyanto,Operator,PRODUKSI DEPT,Safety Helmet,1,26-May-25,,8
-,Niko,Magang,QHSE,Safety Shoes,1,26-May-25,26-May-27,
-TP00009,Sadarudin,Operator Leader,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,27-May-25,,
-TP00173,Shoni Ramdhani,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,27-May-25,,
-TP00230,Ahmad Muchlas,Magang,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,
-TP00123,Karsono,Staff,Procurement,Safety Shoes,1,27-May-25,27-May-27,
-,Yoga Candra Setyawan,Senior Staff,ENGINEERING DEPT,Safety Glases Clear,1,27-May-25,,
-,Sukarso,Staff,ENGINEERING DEPT,Safety Shoes,1,27-May-25,27-May-27,
-,Sakha Ramadhan Putra,Stamm Electric,ENGINEERING DEPT,Safety Helmet,1,27-May-25,,9
-,Sakha Ramadhan Putra,Stamm Electric,ENGINEERING DEPT,Safety Shoes,1,27-May-25,27-May-27,
-TP00069,Iqbal Rusdianto,Operator,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,
-TP00069,Iqbal Rusdianto,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,27-May-25,,
-TP00085,Surya Alamsyah Siregar,Operator,PRODUKSI DEPT,Safety Shoes,2,27-May-25,27-May-27,
-TP00087,Andi Nurwakhid,Operator,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,
-TP00216,Lasino,Supervisor,PRODUKSI DEPT,Safety Helmet,1,27-May-25,,8
-TP00216,Lasino,Supervisor,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,
-TP00218,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Safety Helmet,1,27-May-25,,41
-TP00218,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,
-,Phangky Setiawan,Staff,ENGINEERING DEPT,Safety Shoes,1,28-May-25,28-May-27,
-TP00068,Agung,Operator,PRODUKSI DEPT,Safety Shoes,2,28-May-25,28-May-27,
-TP00215,Supriyanto,Operator,PRODUKSI DEPT,Safety Shoes,1,28-May-25,28-May-27,
-,Teguh Kurniawan,Staff,QHSE,Safety Helmet,1,30-May-25,,7
-TP00014,Raflis,Operator Leader,PRODUKSI DEPT,Fastrack,1,30-May-25,,
-TP00050,Shofian Nudin,Operator,PRODUKSI DEPT,Safety Shoes,1,30-May-25,30-May-27,
-TP00185,Achmad Idrus,Operator,PRODUKSI DEPT,Safety Helmet,1,30-May-25,,8
-SK00001,Ririn Anggraeni,Staff,Accounting & Finance Dept,Safety Shoes,1,30-May-25,30-May-27,
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Helmet,1,30-May-25,,11
-,Hajis,Staff,Sales / Marketing Dept,Safety Shoes,1,30-Jun-25,30-Jun-27,
-TP00021,Hery Arifin,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,5-Aug-25,5-Aug-27,
-TP00191,Jaenal Arifin,Operator,PRODUKSI DEPT,Safety Helmet,1,5-Aug-25,,6
-,Boyke Mulyanto S.,Operator,SCM Dept,Safety Shoes,1,5-Aug-25,5-Aug-27,
-,Amrinal,Manager,Sales / Marketing Dept,Safety Helmet,1,5-Aug-25,,8
-TP00140,Dean Hermawan,Staff,Customer Services,Safety Shoes,1,5-Aug-25,5-Aug-27,
-TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-TP00019,Muhammad Heri Hastomo,Operator Leader,PRODUKSI DEPT,Safety Glases Black,2,7-Aug-25,,
-TP00187,Bambang Tentrem Suprihatin,Operator,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-TP00189,Chairul Anwar,Operator,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-,Miyah Maulidah Setiawan,Staff,Accounting & Finance Dept,Safety Shoes,1,7-Aug-25,7-Aug-27,
-,Eka Rizky,Manager,SCM Dept,Fastrack,1,7-Aug-25,,
-,Iwan Setiawan,Staff,Sales / Marketing Dept,Safety Shoes,1,7-Aug-25,7-Aug-27,
-,Muhammad Naufal Lukman Hakim,Staff,Sales / Marketing Dept,Safety Helmet,1,7-Aug-25,,9
-,Amrinal,Manager,Sales / Marketing Dept,Safety Shoes,3,7-Aug-25,7-Aug-27,
-TP00116,Widiyanto,Staff,Customer Services,Safety Shoes,2,7-Aug-25,7-Aug-27,
-TP00009,Sadarudin,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-TP00173,Shoni Ramdhani,Operator,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-TP00229,Arya Firgiansah,Magang,PRODUKSI DEPT,Safety Shoes,1,7-Aug-25,7-Aug-27,
-TP00123,Karsono,Staff,Procurement,Safety Helmet,1,7-Aug-25,,5
-,Joko Susilo,Staff,"HR, GA, & IT DEPT",Safety Helmet,1,11-Aug-25,,5
-TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Aug-25,11-Aug-27,
-,Chabib Mustofa,Staff Mekanik,ENGINEERING DEPT,Safety Shoes,1,11-Aug-25,11-Aug-27,
-TP00095,Sapto,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Aug-25,11-Aug-27,
-TP00219,Muhamad Yusuf,Operator,PRODUKSI DEPT,Safety Helmet,1,11-Aug-25,,42
-,Aldy,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,13-Aug-25,,8
-,Joko Susilo,Staff,"HR, GA, & IT DEPT",Fastrack,1,19-Aug-25,,
-,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,19-Aug-25,19-Aug-27,
-,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,19-Aug-25,,8
-,Agung Syaifullah,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,22-Aug-25,22-Aug-27,
-,Teguh Kurniawan,Staff,QHSE,Safety Shoes,1,22-Aug-25,22-Aug-27,
+TP00045,Suprayogi,Operator,PRODUKSI DEPT,Safety Shoes,1,12-Dec-23,11-Dec-25,6
+TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Glases Clear,2,15-Oct-24,,
+TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Glases Black,1,12-Nov-24,,
+TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Masker N95 3M,10,12-Nov-24,,
+TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,3-Feb-25,2-Feb-27,6
+TP00049,Erwin Maulana,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00049,Erwin Maulana,Operator,PRODUKSI DEPT,Safety Shoes,1,24-Mar-25,23-Mar-27,9
+TP00050,Shofian Nudin,Operator,PRODUKSI DEPT,Safety Shoes,1,6-Feb-25,5-Feb-27,7
 TP00050,Shofian Nudin,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,22-Aug-25,,
-,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,25-Aug-25,,37
-TP00020,Priadi,Operator,PRODUKSI DEPT,Safety Shoes,1,29-Aug-25,29-Aug-27,
-TP00190,Muhamad Lukman,Operator,PRODUKSI DEPT,Safety Shoes,1,29-Aug-25,29-Aug-27,
-,Nandika Wisnu Wardana,Staff,SCM Dept,Fastrack,1,29-Aug-25,,
-,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Helmet,1,29-Aug-25,,
-TP00140,Dean Hermawan,Staff,Customer Services,Safety Helmet,1,29-Aug-25,,10
-,Hendro Tornado P Nababan,KABAG,QHSE,Ear plug,10,1-Sep,,
+TP00052,Suroso,Operator,PRODUKSI DEPT,Safety Helmet,1,6-Jul-23,6-Jul-27,
+TP00052,Suroso,Operator,PRODUKSI DEPT,Safety Shoes,1,1-Apr-24,1-Apr-26,6
+TP00052,Suroso,Operator,PRODUKSI DEPT,Safety Shoes,1,15-Apr-25,14-Apr-27,6
+TP00053,Abdul Muhit,Operator,PRODUKSI DEPT,Safety Shoes,1,20-Feb-24,19-Feb-26,
+TP00053,Abdul Muhit,Operator,PRODUKSI DEPT,Ear Plug,2,26-May-25,,
+TP00054,Anton Triatno,Operator,PRODUKSI DEPT,Safety Shoes,1,31-Jan-25,30-Jan-27,8
+TP00057,Iwan Setiawan,Staff,Sales / Marketing Dept,Safety Glases Clear,1,30-May-24,,
+TP00057,Iwan Setiawan,Staff,Sales / Marketing Dept,Safety Shoes,1,6-Dec-23,5-Dec-25,6
+TP00061,Dea Dermaga Putra,Staff,SCM Dept,Safety Shoes,1,16-Oct-24,16-Oct-26,
+TP00061,Dea Dermaga Putra,Staff,SCM Dept,Rompi,3,22-Sep,,
+TP00061,Dea Dermaga Putra,Staff,SCM Dept,Safety Shoes,1,1-Apr,1-Apr-26,9
+TP00063,Nandika Wisnu Wardana,Staff,SCM Dept,Fastrack,1,18-Jan-24,,
+TP00066,Hendro Tornado P Nababan,KABAG,QHSE,Body Harness,2,6-Nov-24,,
+TP00066,Hendro Tornado P Nababan,KABAG,QHSE,Ear plug,10,1-Sep,,
+TP00066,Hendro Tornado P Nababan,KABAG,QHSE,Safety Shoes,1,10-Oct-23,9-Oct-25,7
+TP00066,Hendro Tornado P Nababan,KABAG,QHSE,Safety Glases Clear,1,17-Sep-24,,
+TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Safety Shoes,1,31-Oct-24,31-Oct-26,42
+TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Fastrack,1,16-Dec-24,,
+TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Ear Muff,1,3-Jan-24,,
+TP00067,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,42
+TP00068,Agung,Staff,PRODUKSI DEPT,Masker N95 3M,1,16-Oct-24,,
+TP00068,Agung,Operator,PRODUKSI DEPT,Safety Shoes,2,10-Feb-25,9-Feb-27,9
+TP00068,Agung,Staff,PRODUKSI DEPT,Sarung Tangan Argon,1,16-Oct-24,,
+TP00069,Iqbal Rusdianto,Operator,PRODUKSI DEPT,Safety Shoes,1,13-Dec-23,12-Dec-25,6
+TP00069,Iqbal Rusdianto,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP0007,Sundowi,KABAG,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,43
+TP00075,Yuswa Indrawati,Supervisor,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,16-Oct-26,
+TP00083,Aditya Nugroho,Manager,Accounting & Finance Dept,Safety Shoes,1,29-Oct-24,28-Oct-26,
+TP00083,Aditya Nugroho,Manager,Accounting & Finance Dept,Safety Helmet,1,4-Oct-24,4-Oct-28,
+TP00085,Surya Alamsyah Siregar,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Sep-23,10-Sep-25,7
+TP00085,Surya Alamsyah Siregar,Operator,PRODUKSI DEPT,Safety Shoes,1,6-Jan-25,5-Jan-27,7
+TP00087,Andi Nurwakhid,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Feb-25,2-Feb-27,6
+TP00095,Sapto,Operator,PRODUKSI DEPT,Safety Shoes,1,2-Oct-23,1-Oct-25,9
+TP00095,Sapto,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00095,Sapto,Operator,PRODUKSI DEPT,Safety Shoes,1,21-Oct-25,20-Oct-27,9
+TP00100,Hendri Ali,Operator ,PRODUKSI DEPT,Safety Shoes,1,3-Oct-23,2-Oct-25,41
+TP00100,Hendri Ali,Operator,PRODUKSI DEPT,Safety Shoes,1,24-Sep-25,23-Sep-27,41
+TP00102,Teguh Kurniawan,Staff,QHSE,Safety Glases Clear,2,26-Jun-23,,
+TP00102,Teguh Kurniawan,Staff,QHSE,Safety Helmet,1,4-Dec-24,4-Dec-28,
+TP00102,Teguh Kurniawan,Staff,QHSE,Safety Shoes,1,11-Jul-25,10-Jul-27,7
+TP00103,Tri Pamungkas,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Jan-25,2-Jan-27,9
+TP00104,Agus Setiono,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Dec-24,2-Dec-26,9
+TP00105,Adlan Fahmi,Operator,PRODUKSI DEPT,Fastrack,1,23-Sep-24,,
+TP00105,Adlan Fahmi,Operator,PRODUKSI DEPT,Safety Shoes,1,2-Oct-24,1-Oct-26,41
+TP00110,Wasito,Operator,PRODUKSI DEPT,Safety Shoes,1,30-May-24,29-May-26,10
+TP00111,Akhmad Aji Fakhrudin,Operator,PRODUKSI DEPT,Safety Shoes,1,22-Aug-24,21-Aug-26,8
+TP00115,Wahyudin Muin,Operator,PRODUKSI DEPT,Safety Shoes,1,5-May-25,4-May-27,7
+TP00116,Widiyanto,Staff,Customer Services,Fastrack,2,11-Jul-24,,
+TP00116,Widiyanto,Staff,Customer Services,Ear Plug,1,11-Nov-24,11-Nov-26,
+TP00116,Widiyanto,Staff,Customer Services,Body Harness,2,19-Dec-24,,
+TP00116,Widiyanto,Staff,Customer Services,Safety Shoes,1,7-Aug-24,6-Aug-26,7
+TP00116,Widiyanto,Staff,Customer Services,Fastrack,1,10-Sep,,
+TP00116,Widiyanto,Staff,Customer Services,Chin Strap,1,10-Sep,,
+TP00116,Widiyanto,Staff,Customer Services,Ear plug,1,11-Nov,,
+TP00120,Syaiful Fahmi,Staff,Customer Services,Safety Shoes,1,16-Oct-24,16-Oct-26,
+TP00121,Erwin Herdiyansyah,Manager,Customer Services,Safety Glases Clear,1,6-May-24,,
+TP00121,Erwin Herdiyansyah,Manager,Customer Services,Safety Shoes,1,6-Jan-25,6-Jan-27,
+TP00123,Karsono,Staff,Procurement,Safety Shoes,1,27-May-25,27-May-27,5
+TP00123,Karsono,Staff,Procurement,Safety Helmet,1,7-Aug-23,7-Aug-27,
+TP00124,Helmi Nopendra,Staff,"HR, GA, & IT DEPT",Safety Helmet,1,3-Dec-24,3-Dec-28,
+TP00124,Helmi Nopendra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,22-Jul-24,21-Jul-26,8
+TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,4-Dec-24,,9
+TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,23-Jan-25,22-Jan-27,9
+TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Fastrack,2,20-May-24,,
+TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,10-Jul-23,10-Jul-27,
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Safety Shoes,2,20-Feb-24,19-Feb-26,
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Body Harness,1,3-Dec-24,,
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Fastrack,1,2-Jan-25,,
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Rompi,2,22-Sep,,
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Safety Shoes,1,20-Feb-24,19-Feb-26,6
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Safety Shoes,1,24-Mar-25,23-Mar-27,6
+TP00137,Yoga Herdiansyah,Staff,SCM Dept,Body Harness,1,3-Dec-24,,
+TP00139,Rahmat Hidayat,Operator,QHSE,Safety Shoes,1,19-Jan-24,18-Jan-26,6
+TP00140,Dean Hermawan,Staff,Customer Services,Safety Glases Clear,1,19-Aug-24,,
+TP00140,Dean Hermawan,Staff,Customer Services,Ear Plug,1,25-Nov-24,25-Nov-26,
+TP00140,Dean Hermawan,Staff,Customer Services,Fastrack,2,25-Nov-24,,
+TP00140,Dean Hermawan,Staff,Customer Services,Safety Shoes,1,6-Aug-23,5-Aug-25,10
+TP00140,Dean Hermawan,Staff,Customer Services,Safety Helmet,1,29-Aug-23,20-Aug-27,
+TP00140,Dean Hermawan,Staff,Customer Services,Safety Shoes,1,16-Oct-24,16-Oct-26,10
+TP00140,Dean Hermawan,Staff,Customer Services,Safety Glass Clear,1,19-Aug-24,,
+TP00140,Dean Hermawan,Staff,Customer Services,Ear plug,1,25-Nov-24,,
+TP00140,Dean Hermawan,Staff,Customer Services,Fastrack,1,25-Nov-24,,
+TP00142,Muhammad Naufal Lukman Hakim,Staff,Sales / Marketing Dept,Safety Shoes,1,16-Oct-24,16-Oct-26,
+TP00142,Muhammad Naufal Lukman Hakim,Staff,Sales / Marketing Dept,Safety Helmet,1,2-Jun-24,2-Jun-28,
+TP00142,Muhammad Naufal Lukman Hakim,Staff,Sales / Marketing Dept,Safety Helmet,1,30-May-24,30-May-26,9
+TP00145,M Haris Pratama,Staff,QHSE,Safety Shoes,1,9-Dec-24,9-Dec-26,
+TP00146,Badil Noor Fikri,Operator,PRODUKSI DEPT,Safety Shoes,1,19-Oct-23,19-Oct-25,8
+TP00147,Checilia Yohana Sutini,Manager,"HR, GA, & IT DEPT",Safety Helmet,1,4-Oct-24,4-Oct-28,
+TP00147,Checilia Yohana Sutini,Manager,"HR, GA, & IT DEPT",Safety Shoes,1,30-Jul-24,29-Jul-26,40
+TP00150,Dede Suwito,Manager,ENGINEERING DEPT,Safety Shoes,1,20-Mar-24,20-Mar-26,10
+TP00150,Dede Suwito,Manager,ENGINEERING DEPT,Safety Glases Clear,2,26-Jun-24,,
+TP00150,Dede Suwito,Manager,ENGINEERING DEPT,Safety Helmet,1,28-Jun-24,28-Jun-28,
+TP00153,Ahmad Sofwan,Staff,Customer Services,Safety Shoes,1,26-Nov-24,26-Nov-26,
+TP00154,Joko Susilo,Staff,"HR, GA, & IT DEPT",Safety Helmet,1,11-Aug-25,,5
+TP00154,Joko Susilo,Staff,"HR, GA, & IT DEPT",Fastrack,1,19-Aug-25,,
+TP00154,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Safety Shoes,1,11-Sep,11-Sep-27,40
+TP00154,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Fastrack,1,22-Sep,,
+TP00154,Joko Susilo,Staff,"HR, GA, & IT DEPT",Safety Shoes,2,16-Oct-25,16-Oct-27,
+TP00154,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Safety Helmet,1,12-Jul,12-Jul-27,
+TP00154,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Safety Helmet,1,16-Jun,15-Jun-25,40
+TP00156,Eka Rizky,Manager,SCM Dept,Safety Shoes,1,25-Oct-23,24-Oct-25,6
+TP00156,Eka Rizky,Manager,SCM Dept,Fastrack,1,7-Aug-25,,
+TP00161,Chabib Mustofa,Staff Mekanik,ENGINEERING DEPT,Safety Shoes,1,3-May-24,2-May-26,8
+TP00165,Denis Sapta Muharam,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00165,Denis Sapta Muharam,Operator,PRODUKSI DEPT,Safety Shoes,1,7-Oct-25,7-Oct-27,7
+TP00169,Efis Muafin,Staff Mekanik,ENGINEERING DEPT,Safety Shoes,1,5-Sep-24,3-Sep-26,9
+TP00172,Wiwiek Agustina,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Dec-24,11-Dec-26,
+TP00172,Wiwiek Agustina,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,16-Oct-24,16-Oct-28,
+TP00172,Wiwiek Agustina,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,19-Aug-25,18-Aug-27,39
+TP00173,Shoni Ramdhani,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00173,Shoni Ramdhani,Operator,PRODUKSI DEPT,Safety Shoes,1,26-Mar-25,26-Mar-27,
+TP00174,Gayatri Puput Melati,Staff,SCM Dept,Safety Helmet,1,7-Jan-25,7-Jan-29,
+TP00174,Gayatri Puput Melati,Staff,SCM Dept,Safety Shoes,1,24-Oct-24,23-Oct-26,38
+TP00180,M. Afrian,Operator,PRODUKSI DEPT,Safety Shoes,1,26-Mar-25,25-Mar-27,8
+TP00180,M. Afrian,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00181,Muhammad Kamil Mughni,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,7-Jan-25,,
+TP00182,Angga Sutrisno,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Nov-24,11-Nov-26,
+TP00185,Achmad Idrus,Operator,PRODUKSI DEPT,Safety Helmet,1,20-Nov-24,20-Nov-28,8
+TP00185,Achmad Idrus,Operator,PRODUKSI DEPT,Safety Shoes,1,18-Nov-24,17-Nov-26,
+TP00187,Bambang Tentrem Suprihatin,Operator,PRODUKSI DEPT,Safety Shoes,1,6-Nov-24,5-Nov-26,7
+TP00187,Bambang Tentrem Suprihatin,Operator,PRODUKSI DEPT,Safety Helmet,1,20-Nov-24,20-Nov-28,
+TP00189,Chairul Anwar,Operator,QHSE,Safety Helmet,1,20-Nov-24,20-Nov-28,
+TP00189,Chairul Anwar,Operator,QHSE,Safety Shoes,1,19-Nov-24,19-Nov-26,6
+TP00190,Muhamad Lukman,Operator,PRODUKSI DEPT,Safety Helmet,1,20-Nov-24,20-Nov-28,
+TP00190,Muhamad Lukman,Operator,PRODUKSI DEPT,Safety Shoes,1,19-Nov-24,18-Nov-26,8
+TP00191,Jaenal Arifin,Operator,PRODUKSI DEPT,Safety Shoes,1,19-Nov-24,19-Nov-26,6
+TP00191,Jaenal Arifin,Operator,PRODUKSI DEPT,Safety Helmet,1,20-Nov-24,20-Nov-28,
+TP00200,Wakhidin,Operator,PRODUKSI DEPT,Safety Shoes,1,9-Dec-24,9-Dec-26,8
+TP00201,Franciscus Purba,Staff,SCM Dept,Safety Shoes,1,11-Dec-24,11-Dec-26,
+TP00204,Sakha Ramadhan Putra,Staff Electric,ENGINEERING DEPT,Safety Helmet,1,24-Jan-25,24-Jan-29,
+TP00204,Sakha Ramadhan Putra,Staff Electric,ENGINEERING DEPT,Safety Shoes,1,24-Jan-25,23-Jan-27,9
+TP00205,Hermes Piter P.,Manager,QHSE,Safety Helmet,1,21-Jan-25,21-Jan-29,
+TP00207,Rio Hambali,Senior Manager,PRODUKSI DEPT,Safety Helmet,1,10-Apr-25,10-Apr-29,
+TP00207,Rio Hambali,Senior Manager,PRODUKSI DEPT,Safety Shoes,1,11-Apr-25,10-Apr-27,9
+TP00210,Niko Prasetiyo,Magang,QHSE,Safety Shoes,1,28-Apr-25,27-Apr-27,8
+TP00211,Wahyu Nugroho,Supervisor,QHSE,Safety Shoes,1,10-Apr-25,9-Apr-27,9
+TP00211,Wahyu Nugroho,Staff,QHSE,Sensi Gloves,1,18-Sep,,
+TP00212,Wildhan Mahendra Putra,Operator,PRODUKSI DEPT,Safety Shoes,1,23-Apr-25,22-Apr-27,10
+TP00214,Heri Suryana,Operator,PRODUKSI DEPT,Safety Shoes,1,14-Apr-25,14-Apr-27,8
+TP00215,Supriyanto,Operator,PRODUKSI DEPT,Safety Helmet,1,26-May-25,,
+TP00215,Supriyanto,Operator,PRODUKSI DEPT,Safety Shoes,1,26-May-25,25-May-27,8
+TP00216,Lasino,Supervisor,PRODUKSI DEPT,Safety Helmet,1,26-May-25,26-May-29,
+TP00216,Lasino,Supervisor,PRODUKSI DEPT,Safety Shoes,1,26-May-25,25-May-27,8
+TP00217,Aldy Risdianto,Staff,SCM Dept,Safety Shoes,1,24-Mar-25,24-Mar-27,8
+TP00217,Aldy Risdianto,Staff,SCM Dept,Safety Helmet,1,5-Mar-24,5-Mar-29,
+TP00218,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Safety Helmet,1,26-May-25,26-May-20,
+TP00218,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Safety Shoes,1,26-May-25,25-May-27,41
+TP00218,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Ear plug,19,24-Sep,,
+TP00219,Muhamad Yusuf,Operator,PRODUKSI DEPT,Safety Helmet,1,27-May-25,27-May-29,
+TP00219,Muhamad Yusuf,Operator,PRODUKSI DEPT,Safety Shoes,1,27-May-25,26-May-27,42
+TP00220,Dedy Fahrizal,Operator,PRODUKSI DEPT,Safety Shoes,1,27-May-25,27-May-27,42
+TP00220,Dedy Fahrizal,Operator,PRODUKSI DEPT,Safety Helmet,1,27-May-25,27-May-29,
+TP00221,Adi Bambang Aryanto,Operator,PRODUKSI DEPT,Safety Helmet,1,3-Jun-25,2-Jun-29,
+TP00221,Adi Bambang Aryanto,Operator,PRODUKSI DEPT,Safety Shoes,1,3-Jun-25,2-Jun-27,41
+TP00224,Sarjito,Operator,PRODUKSI DEPT,Safety Helmet,1,16-Jul-25,16-Jul-29,
+TP00224,Sarjito,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Jul-25,15-Jul-27,7
+TP00225,Aji Nugroho Ichsan,Operator,PRODUKSI DEPT,Safety Helmet,1,16-Jul-25,16-Jul-29,
+TP00225,Aji Nugroho Ichsan,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Jul-25,15-Jul-27,7
+TP00226,Mustakim,Operator,PRODUKSI DEPT,Safety Shoes,1,7-Jul-25,6-Jul-27,8
+TP00227,Abdul Rojak,Operator,PRODUKSI DEPT,Safety Shoes,1,21-Jul-25,20-Jul-27,
+TP00228,Royong Saputra,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Aug-25,10-Aug-27,7
+TP00229,Arya Firgiansah,Magang,PRODUKSI DEPT,Safety Shoes,1,10-Sep-25,10-Sep-27,
+TP00230,Ahmad Muchlas,Magang,PRODUKSI DEPT,Safety Shoes,1,10-Sep-25,9-Sep-27,7
+TP00232,Haris Ibnu Guntoro,Magang,PRODUKSI DEPT,Safety Shoes,1,4-Dec-24,4-Dec-26,
+TP00234,Robby Abryanto,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Aug-25,11-Aug-27,8
+TP00235,Wahyu Aryadi,Staff,QHSE,Safety Shoes,1,26-May-25,26-May-27,
+TP00235,Wahyu Aryadi,Staff,QHSE,Face Shield,1,26-Sep,,
+TP00235,Wahyu Aryadi,Staff,QHSE,Bracket Face Shield,1,26-Sep,,
+TP00239,Arief Rahman,Operator,PRODUKSI DEPT,Safety Shoes,1,8-Sep,8-Sep-27,42
+TP00241,Rafikah Nadhif Maulidina,Staff,PRODUKSI DEPT,Safety Shoes,1,8-Sep,8-Sep-27,40
+TP00246,Idrus Ibrahim,Staff,QHSE,Safety Shoes,1,19-Sep,19-Sep-27,
+TP00246,Idrus Ibrahim,Staff,QHSE,Safety Helmet,1,19-Sep,,
+TP00246,Idrus Ibrahim,Staff,QHSE,Chin Strap,1,19-Sep,,
+TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Shoes,1,19-Sep,19-Sep-27,7
+TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Helmet,1,19-Sep,,
+TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Chin Strap,1,19-Sep,,
+,Ita Setia Ningsih,Staff,Procurement,Safety Shoes,1,4-Dec-24,4-Dec-26,
+,Hendra Liandry,Manager,Procurement,Safety Shoes,1,7-Mar-25,7-Mar-27,6
+,Yanti,Manager,SCM Dept,Safety Helmet,1,16-Dec-24,16-Dec-28,
+,Vahlen Paraditha,Staff,Sales / Marketing Dept,Safety Helmet,1,6-Jan-25,6-Jan-29,
+,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Helmet,1,4-Oct-24,4-Oct-28,
+,Amrinal,Manager,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
+,Miyah Maulidah Setiawan,Staff,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,17-Oct-26,39
+,Amrinal,Manager,Sales / Marketing Dept,Safety Shoes,3,7-Aug-24,7-Aug-26,8
+,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,19-Sep-24,18-Sep-26,8
+,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,26-Jun-24,26-Jun-28,
+,Agung Syaifullah,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,30-Jun-25,29-Jun-27,8
+,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,11-Feb-25,11-Feb-29,
+,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
 ,Insan Hakimi,Staff,Procurement,Safety Shoes,1,3-Sep-25,3-Sep-27,
 ,Insan Hakimi,Staff,Procurement,Safety Helmet,1,3-Sep-25,,
 ,Insan Hakimi,Staff,Procurement,Chin Strap,1,3-Sep-25,,
-,Arief Rahman,Operator,PRODUKSI DEPT,Safety Shoes,1,8-Sep,8-Sep-27,42
-,Rafikah Nadhif Maulidina,Staff,PRODUKSI DEPT,Safety Shoes,1,8-Sep,8-Sep-27,40
-,Widiyanto,Staff,Customer Services,Fastrack,1,10-Sep,,
-,Widiyanto,Staff,Customer Services,Chin Strap,1,10-Sep,,
-,Ahmad Sehabudin,Operator,QHSE,Safety Shoes,1,11-Sep,11-Sep-27,42
-,Azwar Harris Pamusty,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,42
-,Sundowi,KABAG,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,43
-,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Safety Shoes,1,11-Sep,11-Sep-27,40
-,Priadi,Operator,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,41
-,Hendri Ali,Operator ,PRODUKSI DEPT,Safety Shoes,1,11-Sep,11-Sep-27,41
-,Wahyu Nugroho,Staff,QHSE,Sensi Gloves,1,18-Sep,,
-,Idrus Ibrahim,Staff,QHSE,Safety Shoes,1,19-Sep,19-Sep-27,
-,Idrus Ibrahim,Staff,QHSE,Safety Helmet,1,19-Sep,,
-,Idrus Ibrahim,Staff,QHSE,Chin Strap,1,19-Sep,,
 ,Budi Susatyo,KABAG,CFO,Safety Shoes,1,19-Sep,19-Sep-27,
 ,Budi Susatyo,KABAG,CFO,Safety Helmet,1,19-Sep,,
 ,Budi Susatyo,KABAG,CFO,Chin Strap,1,19-Sep,,
-,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Shoes,1,19-Sep,19-Sep-27,
-,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Helmet,1,19-Sep,,
-,M. Fiqri Nur Hidayat,Operator,QHSE,Chin Strap,1,19-Sep,,
-,Dea Dermaga Putra,Staff,SCM Dept,Rompi,2,22-Sep,,
-,Yoga Saputra,Staff,SCM Dept,Rompi,2,22-Sep,,
-,Boyke Mulyanto S.,Staff,SCM Dept,Rompi,2,22-Sep,,
-,Joko Susilo,KABAG,"HR, GA, & IT DEPT",Fastrack,1,22-Sep,,
-,Danang Koesmiranto Rachman,Staff,PRODUKSI DEPT,Ear plug,19,24-Sep,,
-,Wahyu Aryadi,Staff,QHSE,Face Shield,1,26-Sep,,
-,Wahyu Aryadi,Staff,QHSE,Bracket Face Shield,1,26-Sep,,
-,Wiwiek Agustina,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,1-Oct-25,,39
-,Hendro Tornado P Nababan,KABAG,QHSE,Safety Shoes,1,1-Oct-25,1-Oct-27,
-TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Glases Black,1,1-Oct-25,,
-,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,2-Oct-25,2-Oct-27,
-,Robby Abryanto,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,2-Oct-25,2-Oct-27,
-,Hendro Tornado P Nababan,KABAG,QHSE,Safety Glases Clear,1,2-Oct-25,,
-TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Masker N95 3M,10,2-Oct-25,,
-,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,3-Oct-25,3-Oct-27,
-,Anite,CFO,,Safety Helmet,1,4-Oct-25,,
-,Aries,President Dirictor,,Safety Helmet,1,4-Oct-25,,
-,Efis Muafin,Staff Mekanik,ENGINEERING DEPT,Safety Shoes,1,4-Oct-25,4-Oct-27,
-TP00013,Ahmad Sehabudin,Operator,PRODUKSI DEPT,Fastrack,1,4-Oct-25,,
-TP00095,Sapto,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,4-Oct-25,,
-TP00181,Muhammad Kamil Mughni,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,4-Oct-25,,
-TP00219,Muhamad Yusuf,Operator,PRODUKSI DEPT,Safety Shoes,1,4-Oct-25,4-Oct-27,
-TP00083,Aditya Nugroho,Manager,Accounting & Finance Dept,Safety Shoes,1,4-Oct-25,4-Oct-27,
-,Hendra,Manager,Procurement,Safety Helmet,1,4-Oct-25,,6
-,Helmi Nopendra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,9-Oct-25,9-Oct-27,
-TP00126,Dony Kurniawan,Staff,QUALITIY & PROJECT MANAGEMENT,Fastrack,2,15-Oct-25,,
-,Checilia Yohana Sutini,Manager,"HR, GA, & IT DEPT",Safety Shoes,1,16-Oct-25,16-Oct-27,
-,Joko Susilo,Staff,"HR, GA, & IT DEPT",Safety Shoes,2,16-Oct-25,16-Oct-27,
-TP00013,Ahmad Sehabudin,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Oct-25,16-Oct-27,
-TP00017,Nawawi,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,16-Oct-25,16-Oct-27,
-TP00018,Fatkur Roziq,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Oct-25,16-Oct-27,
-TP00180,M. Afrian,Operator,PRODUKSI DEPT,Sarung Tangan Anti Cut,1,16-Oct-25,,
-TP00185,Achmad Idrus,Operator,PRODUKSI DEPT,Safety Shoes,1,16-Oct-25,16-Oct-27,
-TP00187,Bambang Tentrem Suprihatin,Operator,PRODUKSI DEPT,Safety Helmet,1,16-Oct-25,,7
-TP00083,Aditya Nugroho,Manager,Accounting & Finance Dept,Safety Helmet,1,16-Oct-25,,8
-TP00027,Koni Trisnawati,Staff,Accounting & Finance Dept,Safety Shoes,1,16-Oct-25,16-Oct-27,
-TP00028,Rifan Rifai,Staff,Accounting & Finance Dept,Safety Shoes,1,16-Oct-25,16-Oct-27,
-,Angga Frianma,Staff,Procurement,Safety Helmet,1,16-Oct-25,,
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Shoes,1,16-Oct-25,16-Oct-27,
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Glases Clear,1,16-Oct-25,,
-SK00002,Lidya Permatasari,Staff,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00003,Surono,Supervisor,PRODUKSI DEPT,Safety Helmet,1,17-Oct-25,,5
-TP00003,Surono,Supervisor,PRODUKSI DEPT,Safety Shoes,2,17-Oct-25,17-Oct-27,
-TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00103,Tri Pamungkas,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00104,Agus Setiono,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00105,Adlan Fahmi,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00110,Wasito,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00220,Dedy Fahrizal,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00221,Adi Bambang Aryanto,Operator,PRODUKSI DEPT,Safety Helmet,1,17-Oct-25,,41
-TP00221,Adi Bambang Aryanto,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-TP00224,Sarjito,Operator,PRODUKSI DEPT,Safety Shoes,1,17-Oct-25,17-Oct-27,
-,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,18-Oct-25,,8
-,Rahmat Hidayat,Operator,QHSE,Safety Shoes,1,18-Oct-25,18-Oct-27,
-TP00052,Suroso,Operator,PRODUKSI DEPT,Safety Shoes,2,18-Oct-25,18-Oct-27,
-,Hendrik Adi Saputra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,24-Oct-25,24-Oct-27,
-TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Fastrack,1,24-Oct-25,,
-TP00111,Akhmad Aji Fakhrudin,Operator,PRODUKSI DEPT,Safety Shoes,1,24-Oct-25,24-Oct-27,
-TP00225,Aji Nugroho Ichsan,Operator,PRODUKSI DEPT,Safety Helmet,1,24-Oct-25,,7
-TP00006,Teguh Priadi,Supervisor,PRODUKSI DEPT,Face Shield,1,24-Oct-25,24-Oct-27,
-TP00115,Wahyudin Muin,Operator,PRODUKSI DEPT,Safety Shoes,1,24-Oct-25,24-Oct-27,
-TP00225,Aji Nugroho Ichsan,Operator,PRODUKSI DEPT,Safety Shoes,1,24-Oct-25,24-Oct-27,
-,Gayatri Puput Melati,Staff,SCM Dept,Safety Shoes,1,24-Oct-25,24-Oct-27,
-SK00002,Lidya Permatasari,Staff,PRODUKSI DEPT,Safety Helmet,1,29-Oct-25,,41
-TP00100,Hendri Ali,Operator,PRODUKSI DEPT,Safety Shoes,1,29-Oct-25,29-Oct-27,
-TP00220,Dedy Fahrizal,Operator,PRODUKSI DEPT,Safety Helmet,1,29-Oct-25,,42
-,Hermes Piter P.,Manager,QHSE,Safety Helmet,1,31-Oct-25,,
-TP00048,Sanan,Operator Leader,PRODUKSI DEPT,Safety Shoes,1,31-Oct-25,31-Oct-27,
-,Agung,Staff,PRODUKSI DEPT,Sarung Tangan Argon,1,,,
+,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,17-Sep-24,16-Sep-26,8
+,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Feb-25,10-Feb-27,37
+,Hendra Liandry,Manager,Procurement,Safety Helmet,1,16-Oct-24,16-Oct-28,
+,Angga Frianma,Staff,Procurement,Safety Helmet,1,4-Dec-24,4-Dec-28,
+,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Shoes,1,26-Mar-24,26-Mar-26,11
+,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Glases Clear,1,6-May-24,,
+,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,16-Oct-24,16-Oct-28,
+,Hendrik Adi Saputra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,14-Apr-25,13-Apr-27,9
+,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Helmet,1,6-Oct-25,5-Oct-27,6
