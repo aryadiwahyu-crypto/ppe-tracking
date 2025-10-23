@@ -96,7 +96,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "17-Oct-25",
     "Next_Date": "",
-    "Ukuran": 5
+    "Ukuran": ""
   },
   {
     "NIK": "TP00003",
@@ -107,7 +107,7 @@
     "Jumlah": 2,
     "Tanggal_Keluar": "17-Oct-25",
     "Next_Date": "17-Oct-27",
-    "Ukuran": ""
+    "Ukuran": 5
   },
   {
     "NIK": "TP00004",
@@ -118,7 +118,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "12-Dec-24",
     "Next_Date": "12-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "TP00005",
@@ -360,7 +360,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "22-Aug-24",
     "Next_Date": "21-Aug-26",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "TP00019",
@@ -382,7 +382,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "3-Oct-23",
     "Next_Date": "2-Oct-25",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "TP00020",
@@ -448,7 +448,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "23-Jan-25",
     "Next_Date": "23-Jan-27",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00023",
@@ -569,7 +569,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "23-Jan-25",
     "Next_Date": "23-Jan-27",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00045",
@@ -712,7 +712,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "20-Feb-24",
     "Next_Date": "19-Feb-26",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00053",
@@ -767,7 +767,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Oct-24",
     "Next_Date": "16-Oct-26",
-    "Ukuran": ""
+    "Ukuran": 9
   },
   {
     "NIK": "TP00061",
@@ -965,7 +965,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "17-Oct-24",
     "Next_Date": "16-Oct-26",
-    "Ukuran": ""
+    "Ukuran": 37
   },
   {
     "NIK": "TP00083",
@@ -976,7 +976,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "29-Oct-24",
     "Next_Date": "28-Oct-26",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "TP00083",
@@ -1273,7 +1273,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Oct-24",
     "Next_Date": "16-Oct-26",
-    "Ukuran": ""
+    "Ukuran": 9
   },
   {
     "NIK": "TP00121",
@@ -1295,7 +1295,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "6-Jan-25",
     "Next_Date": "6-Jan-27",
-    "Ukuran": ""
+    "Ukuran": 43
   },
   {
     "NIK": "TP00123",
@@ -1350,7 +1350,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Dec-24",
     "Next_Date": "",
-    "Ukuran": 9
+    "Ukuran": ""
   },
   {
     "NIK": "TP00126",
@@ -1394,7 +1394,7 @@
     "Jumlah": 2,
     "Tanggal_Keluar": "20-Feb-24",
     "Next_Date": "19-Feb-26",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00137",
@@ -1581,7 +1581,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Oct-24",
     "Next_Date": "16-Oct-26",
-    "Ukuran": ""
+    "Ukuran": 9
   },
   {
     "NIK": "TP00142",
@@ -1603,7 +1603,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "30-May-24",
     "Next_Date": "30-May-26",
-    "Ukuran": 9
+    "Ukuran": ""
   },
   {
     "NIK": "TP00145",
@@ -1614,7 +1614,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "9-Dec-24",
     "Next_Date": "9-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "TP00146",
@@ -1691,7 +1691,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "26-Nov-24",
     "Next_Date": "26-Nov-26",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "TP00154",
@@ -1702,7 +1702,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Aug-25",
     "Next_Date": "",
-    "Ukuran": 5
+    "Ukuran": ""
   },
   {
     "NIK": "TP00154",
@@ -1718,7 +1718,7 @@
   {
     "NIK": "TP00154",
     "Nama": "Joko Susilo",
-    "Jabatan": "KABAG",
+    "Jabatan": "Staff",
     "Departemen": "HR, GA, & IT DEPT",
     "Jenis_APD": "Safety Shoes",
     "Jumlah": 1,
@@ -1729,7 +1729,7 @@
   {
     "NIK": "TP00154",
     "Nama": "Joko Susilo",
-    "Jabatan": "KABAG",
+    "Jabatan": "Staff",
     "Departemen": "HR, GA, & IT DEPT",
     "Jenis_APD": "Fastrack",
     "Jumlah": 1,
@@ -1746,12 +1746,12 @@
     "Jumlah": 2,
     "Tanggal_Keluar": "16-Oct-25",
     "Next_Date": "16-Oct-27",
-    "Ukuran": ""
+    "Ukuran": 40
   },
   {
     "NIK": "TP00154",
     "Nama": "Joko Susilo",
-    "Jabatan": "KABAG",
+    "Jabatan": "Staff",
     "Departemen": "HR, GA, & IT DEPT",
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
@@ -1762,13 +1762,13 @@
   {
     "NIK": "TP00154",
     "Nama": "Joko Susilo",
-    "Jabatan": "KABAG",
+    "Jabatan": "Staff",
     "Departemen": "HR, GA, & IT DEPT",
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Jun",
     "Next_Date": "15-Jun-25",
-    "Ukuran": 40
+    "Ukuran": ""
   },
   {
     "NIK": "TP00156",
@@ -1845,7 +1845,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Dec-24",
     "Next_Date": "11-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 39
   },
   {
     "NIK": "TP00172",
@@ -1889,7 +1889,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "26-Mar-25",
     "Next_Date": "26-Mar-27",
-    "Ukuran": ""
+    "Ukuran": 9
   },
   {
     "NIK": "TP00174",
@@ -1955,7 +1955,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Nov-24",
     "Next_Date": "11-Nov-26",
-    "Ukuran": ""
+    "Ukuran": 11
   },
   {
     "NIK": "TP00185",
@@ -1966,7 +1966,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "20-Nov-24",
     "Next_Date": "20-Nov-28",
-    "Ukuran": 8
+    "Ukuran": ""
   },
   {
     "NIK": "TP00185",
@@ -1977,7 +1977,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "18-Nov-24",
     "Next_Date": "17-Nov-26",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "TP00187",
@@ -2087,7 +2087,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Dec-24",
     "Next_Date": "11-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 9
   },
   {
     "NIK": "TP00204",
@@ -2428,7 +2428,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "21-Jul-25",
     "Next_Date": "20-Jul-27",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00228",
@@ -2450,7 +2450,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "10-Sep-25",
     "Next_Date": "10-Sep-27",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "TP00230",
@@ -2472,7 +2472,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Dec-24",
     "Next_Date": "4-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "TP00234",
@@ -2494,7 +2494,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "26-May-25",
     "Next_Date": "26-May-27",
-    "Ukuran": ""
+    "Ukuran": 6
   },
   {
     "NIK": "TP00235",
@@ -2549,7 +2549,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Sep",
     "Next_Date": "19-Sep-27",
-    "Ukuran": ""
+    "Ukuran": 5
   },
   {
     "NIK": "TP00246",
@@ -2615,7 +2615,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Dec-24",
     "Next_Date": "4-Dec-26",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "",
@@ -2758,7 +2758,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "3-Sep-25",
     "Next_Date": "3-Sep-27",
-    "Ukuran": ""
+    "Ukuran": 8
   },
   {
     "NIK": "",
@@ -2791,7 +2791,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Sep",
     "Next_Date": "19-Sep-27",
-    "Ukuran": ""
+    "Ukuran": 7
   },
   {
     "NIK": "",
@@ -2908,7 +2908,7 @@
     "Nama": "Villaniea Annisa Fitri",
     "Jabatan": "Staff",
     "Departemen": "Sales / Marketing Dept",
-    "Jenis_APD": "Safety Helmet",
+    "Jenis_APD": "Safety Shoes",
     "Jumlah": 1,
     "Tanggal_Keluar": "6-Oct-25",
     "Next_Date": "5-Oct-27",
