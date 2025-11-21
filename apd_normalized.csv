@@ -236,31 +236,45 @@ TP00246,Idrus Ibrahim,Staff,QHSE,Chin Strap,1,19-Sep-25,,
 TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Shoes,1,19-Sep-25,19-Sep-27,7
 TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Safety Helmet,1,19-Sep-25,,
 TP00247,M. Fiqri Nur Hidayat,Operator,QHSE,Chin Strap,1,19-Sep-25,,
-,Ita Setia Ningsih,Staff,Procurement,Safety Shoes,1,4-Dec-24,4-Dec-26,8
-,Hendra Liandry,Manager,Procurement,Safety Shoes,1,7-Mar-25,7-Mar-27,6
-,Yanti,Manager,SCM Dept,Safety Helmet,1,16-Dec-24,16-Dec-28,
-,Vahlen Paraditha,Staff,Sales / Marketing Dept,Safety Helmet,1,6-Jan-25,6-Jan-29,
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Helmet,1,4-Oct-24,4-Oct-28,
-,Amrinal,Manager,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
-,Miyah Maulidah Setiawan,Staff,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,17-Oct-26,39
-,Amrinal,Manager,Sales / Marketing Dept,Safety Shoes,3,7-Aug-24,7-Aug-26,8
-,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,19-Sep-24,18-Sep-26,8
-,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,26-Jun-24,26-Jun-28,
-,Agung Syaifullah,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,30-Jun-25,29-Jun-27,8
-,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,11-Feb-25,11-Feb-29,
-,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
-,Insan Hakimi,Staff,Procurement,Safety Shoes,1,3-Sep-25,3-Sep-27,8
-,Insan Hakimi,Staff,Procurement,Safety Helmet,1,3-Sep-25,,
-,Insan Hakimi,Staff,Procurement,Chin Strap,1,3-Sep-25,,
-,Budi Susatyo,KABAG,CFO,Safety Shoes,1,19-Sep-25,19-Sep-27,7
-,Budi Susatyo,KABAG,CFO,Safety Helmet,1,19-Sep-25,,
-,Budi Susatyo,KABAG,CFO,Chin Strap,1,19-Sep-25,,
-,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,17-Sep-24,16-Sep-26,8
-,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Feb-25,10-Feb-27,37
-,Hendra Liandry,Manager,Procurement,Safety Helmet,1,16-Oct-24,16-Oct-28,
-,Angga Frianma,Staff,Procurement,Safety Helmet,1,4-Dec-24,4-Dec-28,
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Shoes,1,26-Mar-24,26-Mar-26,11
-,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Glases Clear,1,6-May-24,,
-,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,16-Oct-24,16-Oct-28,
-,Hendrik Adi Saputra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,14-Apr-25,13-Apr-27,9
-,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Shoes,1,6-Oct-25,5-Oct-27,6
+TP00127,Ita Setia Ningsih,Staff,Procurement,Safety Shoes,1,4-Dec-24,4-Dec-26,8
+TP00174,Hendra Liandry,Manager,Procurement,Safety Shoes,1,7-Mar-25,7-Mar-27,6
+TPP,Yanti,Manager,SCM Dept,Safety Helmet,1,16-Dec-24,16-Dec-28,
+TP00202,Vahlen Paraditha,Staff,Sales / Marketing Dept,Safety Helmet,1,6-Jan-25,6-Jan-29,
+TP00002,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Helmet,1,4-Oct-24,4-Oct-28,
+TP00162,Amrinal Gustian,Manager,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
+TP00158,Miyah Maulidah Setiawan,Staff,Accounting & Finance Dept,Safety Shoes,1,17-Oct-24,17-Oct-26,39
+TP00162,Amrinal Gustian,Manager,Sales / Marketing Dept,Safety Shoes,3,7-Aug-24,7-Aug-26,8
+TP00163,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,19-Sep-24,18-Sep-26,8
+TP00163,Ria,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,26-Jun-24,26-Jun-28,
+TP00222,Agung Syaifullah,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,30-Jun-25,29-Jun-27,8
+TP00206,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,11-Feb-25,11-Feb-29,
+TP00149,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Helmet,1,16-Oct-24,16-Oct-28,
+TP00237,Insan Hakimi,Staff,Procurement,Safety Shoes,1,3-Sep-25,3-Sep-27,8
+TP00237,Insan Hakimi,Staff,Procurement,Safety Helmet,1,3-Sep-25,,
+TP00237,Insan Hakimi,Staff,Procurement,Chin Strap,1,3-Sep-25,,
+TP00243,Budi Susatyo,KABAG,CFO,Safety Shoes,1,19-Sep-25,19-Sep-27,7
+TP00243,Budi Susatyo,KABAG,CFO,Safety Helmet,1,19-Sep-25,,
+TP00243,Budi Susatyo,KABAG,CFO,Chin Strap,1,19-Sep-25,,
+TP00171,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,17-Sep-24,16-Sep-26,8
+TP00206,Dewi Judani Nahar,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Shoes,1,11-Feb-25,10-Feb-27,37
+TP00174,Hendra Liandry,Manager,Procurement,Safety Helmet,1,16-Oct-24,16-Oct-28,
+TP00170,Angga Frianma,Staff,Procurement,Safety Helmet,1,4-Dec-24,4-Dec-28,
+TP00002,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Shoes,1,26-Mar-24,26-Mar-26,11
+TP00002,Widdy Yuanto,GM,Sales / Marketing Dept,Safety Glases Clear,1,6-May-24,,
+TP00171,Ikhlasul Reza Himawan,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,16-Oct-24,16-Oct-28,
+TP00213,Hendrik Adi Saputra,Staff,"HR, GA, & IT DEPT",Safety Shoes,1,14-Apr-25,13-Apr-27,9
+TP00149,Villaniea Annisa Fitri,Staff,Sales / Marketing Dept,Safety Shoes,1,6-Oct-25,5-Oct-27,6
+TP00069,Iqbal Rusdianto,Operator,PRODUKSI DEPT,Safety Shoes,1,21-Oct-25,20-Oct-27,6
+TP00010,Phangky Setiawan,Staff,ENGINEERING DEPT,Safety Shoes,1,21-Oct-25,20/10/27,7
+TP00045,Suprayogi,Operator,PRODUKSI DEPT,Safety Shoes,1,21-Oct-25,20-Oct-27,6
+TP00025,Teguh Purnomo,KABAG,QHSE,Safety Shoes,1,21-Oct-25,20-Oct-27,6
+TP00211,Wahyu Nugroho,Staff,QHSE,Safety Helmet,1,29-Oct-25,28-Oct-29,
+TP00100,Hendri Ali,Operator,PRODUKSI DEPT,Masker N95 3M,1,26-Sep-25,,
+TP00234,Robby Abryanto,Staff,QUALITIY & PROJECT MANAGEMENT,Safety Helmet,1,29-Oct-25,,
+TP00210,Niko Prasetiyo,Magang,QHSE,Chin Strap,1,29-Sep-25,,
+TP00244,Rizky Amelia,Staff,PRODUKSI DEPT,Safety Shoes,1,29-Sep-25,28-Sep-27,39
+TP00235,Wahyu Aryadi,Staff,QHSE,Safety Helmet,1,1-Oct-25,1-Oct-29,
+TP00235,Wahyu Aryadi,Staff,QHSE,Chin Strap,1,1-Oct-25,,
+TP00242,Siti Velynda,Staff,Procurement,Safety Helmet,1,7-Oct-25,7-Oct-29,
+TP00242,Siti Velynda,Staff,Procurement,Chin Strap,1,7-Oct-25,,
+TP00242,Siti Velynda,Staff,Procurement,Fastrack,1,7-Oct-25,,
