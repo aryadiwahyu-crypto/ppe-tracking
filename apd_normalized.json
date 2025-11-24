@@ -3067,5 +3067,93 @@
     "Tanggal_Keluar": "7-Oct-25",
     "Next_Date": "",
     "Ukuran": ""
+  },
+  {
+    "NIK": "TP00009",
+    "Nama": "Sadarudin",
+    "Jabatan": "Operator Leader",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00225",
+    "Nama": "Aji Nugroho Ichsan",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00227",
+    "Nama": "Abdul Rojak",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00069",
+    "Nama": "Iqbal Rusdianto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00095",
+    "Nama": "Sapto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00156",
+    "Nama": "Eka Rizky",
+    "Jabatan": "Manager",
+    "Departemen": "SCM Dept",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "21-Oct-25",
+    "Next_Date": "21-Oct-27",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00146",
+    "Nama": "Badil Noor Fikri",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "10-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00232",
+    "Nama": "Haris Ibnu Guntoro",
+    "Jabatan": "Magang",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Manset",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "17-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
   }
 ]
