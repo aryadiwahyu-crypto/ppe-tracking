@@ -3155,5 +3155,126 @@
     "Tanggal_Keluar": "17-Nov-25",
     "Next_Date": "",
     "Ukuran": ""
+  },
+  {
+    "NIK": "TP00181",
+    "Nama": "Muhammad Kamil Mughni",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00100",
+    "Nama": "Hendri Ali",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00228",
+    "Nama": "Royong Saputra",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00224",
+    "Nama": "Sarjito",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00102",
+    "Nama": "Teguh Kurniawan",
+    "Jabatan": "Staff",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Glases Clear",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00247",
+    "Nama": "M. Fiqri Nur Hidayat",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Helmet Orange",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00247",
+    "Nama": "M. Fiqri Nur Hidayat",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Chin Strap",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00247",
+    "Nama": "M. Fiqri Nur Hidayat",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Chin Strap",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "28-Nov-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00095",
+    "Nama": "Sapto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Helmet Orange",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "11-Dec-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00095",
+    "Nama": "Sapto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Tali Dagu",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "11-Dec-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00095",
+    "Nama": "Sapto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "11-Dec-25",
+    "Next_Date": "",
+    "Ukuran": ""
   }
 ]
