@@ -29,7 +29,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "26-Jun-24",
-    "Next_Date": "",
+    "Next_Date": "26-Jun-27",
     "Ukuran": ""
   },
   {
@@ -40,7 +40,7 @@
     "Jenis_APD": "Fastrack",
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Oct-24",
-    "Next_Date": "",
+    "Next_Date": "17-Oct-25",
     "Ukuran": ""
   },
   {
@@ -51,7 +51,7 @@
     "Jenis_APD": "Safety Shoes",
     "Jumlah": 1,
     "Tanggal_Keluar": "17-Oct-24",
-    "Next_Date": "16-Oct-26",
+    "Next_Date": "4-Dec-24",
     "Ukuran": 38
   },
   {
@@ -62,7 +62,7 @@
     "Jenis_APD": "Safety Shoes",
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Aug-25",
-    "Next_Date": "19-Aug-27",
+    "Next_Date": "11-Aug-25",
     "Ukuran": 41
   },
   {
@@ -73,7 +73,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Aug-25",
-    "Next_Date": "19-Aug-29",
+    "Next_Date": "26-May-28",
     "Ukuran": ""
   },
   {
@@ -95,7 +95,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "17-Oct-25",
-    "Next_Date": "",
+    "Next_Date": "17-Oct-28",
     "Ukuran": ""
   },
   {
@@ -1349,7 +1349,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Dec-24",
-    "Next_Date": "",
+    "Next_Date": "4-Dec-27",
     "Ukuran": ""
   },
   {
@@ -1384,17 +1384,6 @@
     "Tanggal_Keluar": "10-Jul-23",
     "Next_Date": "10-Jul-27",
     "Ukuran": ""
-  },
-  {
-    "NIK": "TP00137",
-    "Nama": "Yoga Herdiansyah",
-    "Jabatan": "Staff",
-    "Departemen": "SCM Dept",
-    "Jenis_APD": "Safety Shoes",
-    "Jumlah": 2,
-    "Tanggal_Keluar": "20-Feb-24",
-    "Next_Date": "19-Feb-26",
-    "Ukuran": 6
   },
   {
     "NIK": "TP00137",
@@ -1602,7 +1591,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "30-May-24",
-    "Next_Date": "30-May-26",
+    "Next_Date": "30-May-27",
     "Ukuran": ""
   },
   {
@@ -1701,7 +1690,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Aug-25",
-    "Next_Date": "",
+    "Next_Date": "11-Aug-28",
     "Ukuran": ""
   },
   {
@@ -1767,7 +1756,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "16-Jun-25",
-    "Next_Date": "15-Jun-25",
+    "Next_Date": "15-Jun-28",
     "Ukuran": ""
   },
   {
@@ -2207,7 +2196,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "26-May-25",
-    "Next_Date": "",
+    "Next_Date": "26-May-28",
     "Ukuran": ""
   },
   {
@@ -2273,7 +2262,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "26-May-25",
-    "Next_Date": "26-May-20",
+    "Next_Date": "26-May-28",
     "Ukuran": ""
   },
   {
@@ -2559,7 +2548,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Sep-25",
-    "Next_Date": "",
+    "Next_Date": "19-Sep-28",
     "Ukuran": ""
   },
   {
@@ -2592,7 +2581,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Sep-25",
-    "Next_Date": "",
+    "Next_Date": "19-Sep-28",
     "Ukuran": ""
   },
   {
@@ -2768,7 +2757,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "3-Sep-25",
-    "Next_Date": "",
+    "Next_Date": "3-Sep-28",
     "Ukuran": ""
   },
   {
@@ -2801,7 +2790,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "19-Sep-25",
-    "Next_Date": "",
+    "Next_Date": "19-Sep-28",
     "Ukuran": ""
   },
   {
@@ -2933,7 +2922,7 @@
     "Jenis_APD": "Safety Shoes",
     "Jumlah": 1,
     "Tanggal_Keluar": "21-Oct-25",
-    "Next_Date": "20/10/27",
+    "Next_Date": "21-Oct-27",
     "Ukuran": 7
   },
   {
@@ -2988,7 +2977,7 @@
     "Jenis_APD": "Safety Helmet",
     "Jumlah": 1,
     "Tanggal_Keluar": "29-Oct-25",
-    "Next_Date": "",
+    "Next_Date": "29-Oct-28",
     "Ukuran": ""
   },
   {
@@ -3219,7 +3208,7 @@
     "Jenis_APD": "Safety Helmet Orange",
     "Jumlah": 1,
     "Tanggal_Keluar": "28-Nov-25",
-    "Next_Date": "",
+    "Next_Date": "28-Nov-28",
     "Ukuran": ""
   },
   {
@@ -3252,7 +3241,7 @@
     "Jenis_APD": "Safety Helmet Orange",
     "Jumlah": 1,
     "Tanggal_Keluar": "11-Dec-25",
-    "Next_Date": "",
+    "Next_Date": "11-Dec-28",
     "Ukuran": ""
   },
   {
@@ -3276,5 +3265,214 @@
     "Tanggal_Keluar": "11-Dec-25",
     "Next_Date": "",
     "Ukuran": ""
+  },
+  {
+    "NIK": "TP00205",
+    "Nama": "Hermes Piter P.",
+    "Jabatan": "Manager",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "12-Dec-25",
+    "Next_Date": "11-Dec-27",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00218",
+    "Nama": "Danang Koesmiranto Rachman",
+    "Jabatan": "Staff",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Body Harness",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "19-Dec-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00153",
+    "Nama": "Ahmad Sofwan",
+    "Jabatan": "Staff",
+    "Departemen": "Customer Services",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "15-Dec-25",
+    "Next_Date": "15-Dec-27",
+    "Ukuran": 7
+  },
+  {
+    "NIK": "TP00023",
+    "Nama": "Boyke Mulyanto S.",
+    "Jabatan": "Operator",
+    "Departemen": "SCM Dept",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "19-Jan-25",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00023",
+    "Nama": "Boyke Mulyanto S.",
+    "Jabatan": "Operator",
+    "Departemen": "SCM Dept",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "19-Jan-26",
+    "Next_Date": "19-Jan-30",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00049",
+    "Nama": "Erwin Maulana",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "5-Jan-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00220",
+    "Nama": "Dedy Fahrizal",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "5-Jan-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00180",
+    "Nama": "M. Afrian",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "5-Jan-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00219",
+    "Nama": "Muhamad Yusuf",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "5-Jan-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00139",
+    "Nama": "Rahmat Hidayat",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "23-Jan-26",
+    "Next_Date": "23-Jan-28",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00213",
+    "Nama": "Hendrik Adi Saputra",
+    "Jabatan": "Staff",
+    "Departemen": "HR, GA, & IT DEPT",
+    "Jenis_APD": "Safety Glass Clear",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "23-Jan-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00061",
+    "Nama": "Dea Dermaga Putra",
+    "Jabatan": "Staff",
+    "Departemen": "SCM Dept",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "9-Feb-26",
+    "Next_Date": "9-Feb-28",
+    "Ukuran": 9
+  },
+  {
+    "NIK": "TP00137",
+    "Nama": "Yoga Herdiansyah",
+    "Jabatan": "Staff",
+    "Departemen": "SCM Dept",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "9-Feb-26",
+    "Next_Date": "9-Feb-28",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00066",
+    "Nama": "Hendro Tornado P Nababan",
+    "Jabatan": "KABAG",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "3-Feb-26",
+    "Next_Date": "3-Feb-28",
+    "Ukuran": 7
+  },
+  {
+    "NIK": "TP00053",
+    "Nama": "Abdul Muhit",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "19-Feb-26",
+    "Next_Date": "19-Feb-28",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00248",
+    "Nama": "Maulidya Farharani",
+    "Jabatan": "Staff",
+    "Departemen": "PM",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Feb-26",
+    "Next_Date": "4-Feb-28",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00249",
+    "Nama": "Fabella Novega",
+    "Jabatan": "Staff",
+    "Departemen": "PM",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Feb-26",
+    "Next_Date": "4-Feb-28",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00248",
+    "Nama": "Maulidya Farharani",
+    "Jabatan": "Staff",
+    "Departemen": "PM",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Feb-26",
+    "Next_Date": "4-Feb-30",
+    "Ukuran": 6
+  },
+  {
+    "NIK": "TP00249",
+    "Nama": "Fabella Novega",
+    "Jabatan": "Staff",
+    "Departemen": "PM",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Feb-26",
+    "Next_Date": "4-Feb-30",
+    "Ukuran": 6
   }
 ]
