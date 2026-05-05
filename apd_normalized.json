@@ -3451,7 +3451,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Feb-26",
     "Next_Date": "4-Feb-28",
-    "Ukuran": 6
+    "Ukuran": 41
   },
   {
     "NIK": "TP00248",
@@ -3462,7 +3462,7 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Feb-26",
     "Next_Date": "4-Feb-30",
-    "Ukuran": 6
+    "Ukuran": ""
   },
   {
     "NIK": "TP00249",
@@ -3473,6 +3473,424 @@
     "Jumlah": 1,
     "Tanggal_Keluar": "4-Feb-26",
     "Next_Date": "4-Feb-30",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00180",
+    "Nama": "M. Afrian",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00232",
+    "Nama": "Haris Ibnu Guntoro",
+    "Jabatan": "",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00038",
+    "Nama": "Endar Suhendar",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "8-Apr-26",
+    "Next_Date": "8-Apr-28",
+    "Ukuran": 8
+  },
+  {
+    "NIK": "TP00210",
+    "Nama": "Niko Prasetiyo",
+    "Jabatan": "",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Kacamata Safety",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "18-Mar-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00216",
+    "Nama": "Lasino",
+    "Jabatan": "Supervisor",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00008",
+    "Nama": "Nurhadi Anwar",
+    "Jabatan": "Operator Leader",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00050",
+    "Nama": "Shofian Nudin",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00049",
+    "Nama": "Erwin Maulana",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00220",
+    "Nama": "Dedy Fahrizal",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00181",
+    "Nama": "M. Kamil",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Sarung Tangan Anti Cut",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "6-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00213",
+    "Nama": "Hendrik Adi Saputra",
+    "Jabatan": "Staff",
+    "Departemen": "HR, GA, & IT DEPT",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "3-Mar-26",
+    "Next_Date": "3-Mar-30",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00222",
+    "Nama": "Agung Syaifullah",
+    "Jabatan": "Staff",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-Mar-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00213",
+    "Nama": "Hendrik Adi Saputra",
+    "Jabatan": "Staff",
+    "Departemen": "HR, GA, & IT DEPT",
+    "Jenis_APD": "Kacamata Safety",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "15-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00235",
+    "Nama": "Wahyu Aryadi",
+    "Jabatan": "Staff",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Face Shield",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "15-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00235",
+    "Nama": "Wahyu Aryadi",
+    "Jabatan": "Staff",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Bracket Face Shield",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "15-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00110",
+    "Nama": "Wasito",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "15-Apr-26",
+    "Next_Date": "15-Apr-28",
+    "Ukuran": 10
+  },
+  {
+    "NIK": "TP00105",
+    "Nama": "Adlan Fahmi",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "14-Apr-26",
+    "Next_Date": "14-Apr-28",
+    "Ukuran": 41
+  },
+  {
+    "NIK": "TP00019",
+    "Nama": "M. Heri Hastomo",
+    "Jabatan": "Operator Leader",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Kacamata Safety Smoke",
+    "Jumlah": 4,
+    "Tanggal_Keluar": "13-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00029",
+    "Nama": "Yoga Herdiansyah",
+    "Jabatan": "Operator",
+    "Departemen": "Warehouse",
+    "Jenis_APD": "Kacamata Safety Smoke",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "13-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00182",
+    "Nama": "Angga Sutrisno",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "10-Apr-26",
+    "Next_Date": "10-Apr-28",
+    "Ukuran": 11
+  },
+  {
+    "NIK": "TP00073",
+    "Nama": "Laura Lorenza",
+    "Jabatan": "Staff",
+    "Departemen": "HR, GA, & IT DEPT",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "10-Apr-26",
+    "Next_Date": "10-Apr-28",
+    "Ukuran": 37
+  },
+  {
+    "NIK": "TP00254",
+    "Nama": "Muhammad Feri",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Safety Shoes",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-May-26",
+    "Next_Date": "4-May-28",
     "Ukuran": 6
+  },
+  {
+    "NIK": "TP00254",
+    "Nama": "Muhammad Feri",
+    "Jabatan": "Operator",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "4-May-26",
+    "Next_Date": "4-May-28",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00169",
+    "Nama": "Efis Muafin",
+    "Jabatan": "Staff",
+    "Departemen": "ENGINEERING DEPT",
+    "Jenis_APD": "Fastrack",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "8-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00169",
+    "Nama": "Efis Muafin",
+    "Jabatan": "Staff",
+    "Departemen": "ENGINEERING DEPT",
+    "Jenis_APD": "Helmet",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "8-Apr-26",
+    "Next_Date": "8-Apr-30",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00169",
+    "Nama": "Efis Muafin",
+    "Jabatan": "Staff",
+    "Departemen": "ENGINEERING DEPT",
+    "Jenis_APD": "Chin Strap",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "8-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00017",
+    "Nama": "Nawawi",
+    "Jabatan": "Operator Leader",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00054",
+    "Nama": "Anton Triatno",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00105",
+    "Nama": "Adlan Fahmi",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00104",
+    "Nama": "Agus Setiono",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00218",
+    "Nama": "Danang Koesmiranto Rachman",
+    "Jabatan": "Staff",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00053",
+    "Nama": "Abdul Muhit",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00022",
+    "Nama": "Riki Dwi Susanto",
+    "Jabatan": "Operator Leader",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00215",
+    "Nama": "Supriyanto",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00087",
+    "Nama": "Andi Nurwakhid",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00219",
+    "Nama": "Muhamad Yusuf",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00103",
+    "Nama": "Tri Pamungkas",
+    "Jabatan": "Operator",
+    "Departemen": "PRODUKSI DEPT",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 1,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
+  },
+  {
+    "NIK": "TP00235",
+    "Nama": "Wahyu Aryadi",
+    "Jabatan": "Staff",
+    "Departemen": "QHSE",
+    "Jenis_APD": "Ear plug",
+    "Jumlah": 8,
+    "Tanggal_Keluar": "20-Apr-26",
+    "Next_Date": "",
+    "Ukuran": ""
   }
 ]
